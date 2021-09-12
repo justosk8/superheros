@@ -2,8 +2,10 @@
   font-family: Arial, sans-serif;
   border: 2px solid black;
   width: 1000px;
+
   padding: 20px;
   margin: auto;
+  border-radius: 25px;
   /*background-color: lightslategray;*/
 }
 
@@ -14,6 +16,7 @@
   padding: 20px;
   margin: auto;
   margin-top: 3px;
+  border-radius: 25px;
   /*background-color:rgb(243, 51, 89) */ 
 } 
 
@@ -24,6 +27,7 @@
     padding: 20px;
     margin: auto;
     margin-top: 3px;
+    border-radius: 25px;
    /* background-color:royalblue;
     */
   }
@@ -34,7 +38,7 @@
     width: 1000px;
     padding: 20px;
     margin: auto;
-    
+    border-radius: 25px;
   }
 
   .ironman {
@@ -44,6 +48,7 @@
     padding: 20px;
     margin: auto;
     margin-top: 3px;
+    border-radius: 25px;
   }
 
   .thor {
@@ -53,4 +58,9 @@
     padding: 20px;
     margin: auto;
     margin-top: 3px;
+    border-radius: 25px;
+  }
+
+  h1 {
+     font-family: Comic Sans MS, Comic Sans, cursive; 
   }
