@@ -1,35 +1,56 @@
 .batman {
+  font-family: Arial, sans-serif;
   border: 2px solid black;
   width: 1000px;
   padding: 20px;
+  margin: auto;
+  /*background-color: lightslategray;*/
 }
 
 .wonder-woman {
-    border: 2px solid black;
+  font-family: 'Courier New', monospace;
+  border: 2px solid black;
   width: 1000px;
   padding: 20px;
+  margin: auto;
+  margin-top: 3px;
+  /*background-color:rgb(243, 51, 89) */ 
 } 
 
 .superman {
+    font-family: Helvetica, sans-serif;
     border: 2px solid black;
     width: 1000px;
     padding: 20px;
+    margin: auto;
+    margin-top: 3px;
+   /* background-color:royalblue;
+    */
   }
 
   .spiderman {
+    font-family: Garamond, serif;
     border: 2px solid black;
     width: 1000px;
     padding: 20px;
+    margin: auto;
+    
   }
 
   .ironman {
+    font-family: 'Courier New', monospace;
     border: 2px solid black;
     width: 1000px;
     padding: 20px;
+    margin: auto;
+    margin-top: 3px;
   }
 
   .thor {
+    font-family: 'Trebuchet MS', sans-serif;
     border: 2px solid black;
     width: 1000px;
     padding: 20px;
+    margin: auto;
+    margin-top: 3px;
   }
