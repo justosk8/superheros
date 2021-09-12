@@ -1,3 +1,35 @@
 .batman {
-  
+  border: 2px solid black;
+  width: 1000px;
+  padding: 20px;
 }
+
+.wonder-woman {
+    border: 2px solid black;
+  width: 1000px;
+  padding: 20px;
+} 
+
+.superman {
+    border: 2px solid black;
+    width: 1000px;
+    padding: 20px;
+  }
+
+  .spiderman {
+    border: 2px solid black;
+    width: 1000px;
+    padding: 20px;
+  }
+
+  .ironman {
+    border: 2px solid black;
+    width: 1000px;
+    padding: 20px;
+  }
+
+  .thor {
+    border: 2px solid black;
+    width: 1000px;
+    padding: 20px;
+  }
