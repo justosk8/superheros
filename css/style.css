@@ -77,4 +77,11 @@
       text-decoration: underline;
       text-shadow: 1px 1px 5px;
   }
- 
+ p:hover {
+     text-decoration: underline;
+     background-color: rgb(241, 233, 227);
+ }
+ span:hover {
+     text-decoration: none;
+     border: 2px solid black;
+ }
