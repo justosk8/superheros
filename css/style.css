@@ -6,7 +6,7 @@
   padding: 20px;
   margin: auto;
   border-radius: 25px;
-  background-color: rgba(226, 235, 241, 0.295);
+  background-color: rgba(255, 255, 255, 0.61);
 }
 
 .wonder-woman {
@@ -17,9 +17,8 @@
   margin: auto;
   margin-top: 3px;
   border-radius: 25px;
-  background-color: rgba(226, 235, 241, 0.295);
+  background-color: rgba(255, 255, 255, 0.61);
 
-  /*background-color:rgb(243, 51, 89) */ 
 } 
 
 .superman {
@@ -30,10 +29,9 @@
     margin: auto;
     margin-top: 3px;
     border-radius: 25px;
-    background-color: rgba(226, 235, 241, 0.295);
+    background-color: rgba(255, 255, 255, 0.61);
 
-   /* background-color:royalblue;
-    */
+  
   }
 
   .spiderman {
@@ -43,7 +41,7 @@
     padding: 20px;
     margin: auto;
     border-radius: 25px;
-    background-color: rgba(226, 235, 241, 0.295);
+    background-color: rgba(255, 255, 255, 0.61);
 
   }
 
@@ -55,7 +53,7 @@
     margin: auto;
     margin-top: 3px;
     border-radius: 25px;
-    background-color: rgba(226, 235, 241, 0.295);
+    background-color: rgba(255, 255, 255, 0.61);
 
   }
 
@@ -67,10 +65,16 @@
     margin: auto;
     margin-top: 3px;
     border-radius: 25px;
-    background-color: rgba(226, 235, 241, 0.295);
+    background-color: rgba(255, 255, 255, 0.61);
 
   }
 
   h1 {
      font-family: Comic Sans MS, Comic Sans, cursive; 
+     font-weight: lighter;
   }
+  span {
+      text-decoration: underline;
+      text-shadow: 1px 1px 5px;
+  }
+ 
