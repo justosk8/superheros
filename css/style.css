@@ -6,7 +6,7 @@
   padding: 20px;
   margin: auto;
   border-radius: 25px;
-  background-color: #F8F6F0;
+  background-color: rgba(226, 235, 241, 0.295);
 }
 
 .wonder-woman {
@@ -17,6 +17,8 @@
   margin: auto;
   margin-top: 3px;
   border-radius: 25px;
+  background-color: rgba(226, 235, 241, 0.295);
+
   /*background-color:rgb(243, 51, 89) */ 
 } 
 
@@ -28,6 +30,8 @@
     margin: auto;
     margin-top: 3px;
     border-radius: 25px;
+    background-color: rgba(226, 235, 241, 0.295);
+
    /* background-color:royalblue;
     */
   }
@@ -39,6 +43,8 @@
     padding: 20px;
     margin: auto;
     border-radius: 25px;
+    background-color: rgba(226, 235, 241, 0.295);
+
   }
 
   .ironman {
@@ -49,6 +55,8 @@
     margin: auto;
     margin-top: 3px;
     border-radius: 25px;
+    background-color: rgba(226, 235, 241, 0.295);
+
   }
 
   .thor {
@@ -59,6 +67,8 @@
     margin: auto;
     margin-top: 3px;
     border-radius: 25px;
+    background-color: rgba(226, 235, 241, 0.295);
+
   }
 
   h1 {
